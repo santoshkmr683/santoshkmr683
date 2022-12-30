@@ -1,0 +1,11 @@
+**About Me**
+- 👋 Hi, I am Santosh Kumar Mehta, having 6+ years experience in mobile developments(Android/Flutter).
+- 👀 I’m interested in mobile development (flutter and android app development).
+- 🌱 I’m good problem-solving abilities and organizational skills.
+- 💞️ I worked to several apps with 100 Million installs.
+- 📫 How to reach me ...
+- My blogs: https://me2mehta.blogspot.com
+- My play store apps:-
+- https://play.google.com/store/apps/details?id=com.codes4fun
+- https://play.google.com/store/apps/details?id=com.flutter.easy.learn.flutter_tutorial
+- https://play.google.com/store/apps/details?id=com.codes4fun.msg.app
